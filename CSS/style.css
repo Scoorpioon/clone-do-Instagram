@@ -55,11 +55,17 @@ a {
 }
 
 .group:nth-child(1) a:nth-child(3) {
+  transition: .3s ease-in-out;
   margin: 14px 0;
   padding: 5px 8px 8px 8px;
   border-radius: 4px;
   color: white;
   background-color: rgb(0, 128, 255);
+
+}
+
+.group:nth-child(1) a:nth-child(3):hover {
+  background-color: rgb(42, 147, 252);
 
 }
 
