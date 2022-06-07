@@ -35,11 +35,11 @@ a {
 
 }
 
- /*.page-phone img {
-  height: 800px;
-  width: 800px;
+.page-phone img {
+  height: 580px;
+  width: 280px;
 
-} */
+}
 
 .group:nth-child(1) {
   display: flex;
@@ -87,7 +87,7 @@ a {
 }
 
 .profile-photo {
-  border-radius: 50%;
+  border-radius: 55%;
   overflow: hidden;
   margin: 20px 0;
 
